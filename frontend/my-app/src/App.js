@@ -2,9 +2,8 @@ import './App.css';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Navbar from './Navbar';
 import Home from './Home';
-import Menu from './Menu';
+import Menu from './menu/Menu';
 import Book from './Book';
-
 
 function App() {
   return (
