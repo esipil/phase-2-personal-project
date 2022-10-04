@@ -17,7 +17,15 @@ function Home() {
         <p class="welcome">Enim nunc faucibus a pellentesque sit amet porttitor eget. Eget egestas purus viverra accumsan in nisl. Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Id eu nisl nunc mi ipsum faucibus. Purus gravida quis blandit turpis cursus. Non diam phasellus vestibulum lorem sed risus ultricies tristique. .</p>
       </div>
       <div className="feedback">
-
+        <h3  className='feedback-notice'>Tell Us How You Dined</h3>
+        <form>
+          <label className='hhh'> we value your feedback.uykjhvb kjhgncb 
+            <input type={"text"} className="input"></input>
+          </label>
+          <div className='button'>
+          <button  type='submit'>Submit</button>
+          </div>
+        </form>
       </div>
     </div>
   )
