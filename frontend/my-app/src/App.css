@@ -213,5 +213,6 @@ label,input {
   font-size: 30px;
 }
 .but{
-
+  width: 40px;
+  height: 20px;
 }
