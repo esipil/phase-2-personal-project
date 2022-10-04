@@ -14,7 +14,6 @@ function Home() {
 
   function handleSubmit (event) {
     event.preventDefault();
-    event.reset()
     fetch("http://localhost:3000/feedback", {
       method:"POST",
       headers:{
@@ -23,7 +22,8 @@ function Home() {
       body:JSON.stringify({
         comment:formData.comment
       })
-    })
+    });
+    event.target.reset()
   }
 
   return (
