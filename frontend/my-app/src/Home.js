@@ -16,6 +16,9 @@ function Home() {
         <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h3>
         <p class="welcome">Enim nunc faucibus a pellentesque sit amet porttitor eget. Eget egestas purus viverra accumsan in nisl. Augue neque gravida in fermentum et sollicitudin ac orci phasellus. Id eu nisl nunc mi ipsum faucibus. Purus gravida quis blandit turpis cursus. Non diam phasellus vestibulum lorem sed risus ultricies tristique. .</p>
       </div>
+      <div className="feedback">
+
+      </div>
     </div>
   )
 }

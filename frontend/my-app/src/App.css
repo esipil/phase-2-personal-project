@@ -135,6 +135,7 @@
   text-align: center;
   font-size:18px;
   text-justify: inter-word;
+  line-height: 1.5;
 }
 .bookerT {
   background-image: url(/public/Best\ Rooftop\ Bars\ in\ NYC.jpeg);
@@ -149,12 +150,47 @@
 .bookNotice {
   text-align: center;
   font-size: 28px;
-  color: #eee;
+  color: rgb(218, 176, 176);
 }
 .forms{
   background-color: #eee;
   width:50%;
-  height: 100px;
+  height: auto;
   border-radius: 9px;
   margin: auto;
+  mix-blend-mode: screen;
+}
+.inputBox {
+  width: 60%;
+  padding: 12px 20px;
+  margin: auto;
+  box-sizing: border-box;
+  border: 1px black;
+  border-radius: 4px;
+}
+.label{
+  text-align: center;
+}
+label,input {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  text-align: center;
+}
+.reservations{
+  margin: auto;
+  width: 50%;
+  background-color: aliceblue;
+  mix-blend-mode: screen;
+}
+.needToKnow{
+  text-align: center;
+  font-size: 25px;
+  color:black;
+  line-height: 2.0;
+}
+.to {
+  text-align: center;
+  font-size: 40px;
 }

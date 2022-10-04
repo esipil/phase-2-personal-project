@@ -14,7 +14,7 @@ function Menu() {
   })
   return (
     <div className='daily-menu'>
-      <h2 className='notice'>jhgbgfm</h2>
+      <h2 className='notice'>The Dine is a progression of rare and beautiful ingredients where texture, flavour and harmony is paramount</h2>
       {renderMeals}
     </div>
   )
