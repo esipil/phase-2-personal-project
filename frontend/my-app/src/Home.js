@@ -2,7 +2,6 @@ import React, {useState} from 'react'
 import HomeAbout from './HomeAbout';
 
 function Home() {
-
   const [formData, setFormData] = useState({
     comment:""
   });

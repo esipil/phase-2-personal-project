@@ -4,7 +4,7 @@ import MenuPage from './MenuPage'
 function Menu() {
   const [meals, setMeals] = useState([])
   useEffect( () => {
-    fetch("http://localhost:3000/food")
+    fetch("https://restaurantone.herokuapp.com/food")
     .then(data => data.json())
     .then(data => setMeals(data))
   },[])
