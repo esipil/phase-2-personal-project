@@ -14,7 +14,7 @@ function Home() {
 
   function handleSubmit (event) {
     event.preventDefault();
-    fetch("http://localhost:3000/feedback", {
+    fetch("https://restaurantone.herokuapp.com/feedback", {
       method:"POST",
       headers:{
         "Content-Type":"application/json"
