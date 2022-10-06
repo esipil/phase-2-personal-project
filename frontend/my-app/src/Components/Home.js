@@ -23,7 +23,7 @@ function Home() {
         comment:formData.comment
       })
     });
-    event.target.reset()
+    setFormData({comment:'' })
   }
 
   return (
