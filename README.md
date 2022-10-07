@@ -6,7 +6,7 @@ Developed by : Timothy Lenku
 
 ## Project Description
 
-This is a test website for a Zoo. The website's goal is to show the users details of the animals the zoo has. The animal's description should include the animal's photograph and some of their scientific attributes such as their weight, height ,etc. The website should have buttons that diirect users to book their visit and another button where users can join membership to the zoo. Since this is a test website that has only the landing page, the two buttons as laid before do not redirect to their respecitve html pages. The website describes the zoo's particulars i.e their mission, what they do and their plea to the public to act for wildlife. Thee project then ends asking for feedback from the users, presumably those who have been to the zoo.
+This is a test website for a Restaurant. The website's goal is showing information on a restaurant to customers. The website shows the customers the restaurant's menu, see some aspects of a restaurant and also make their reservations. The customers can also send feedback commenting on their visit to the restaurant in the sectipn. 
 
 ## How To Set Up The Project
 
