@@ -25,9 +25,8 @@ Clone this repository by clicking the code button on the upper part of this repo
 
 ## Link To Website
 The following link should take you to the live website of this particular project
-
- ### https://esipil.github.io/phase-1-project/
+### https://shimmering-llama-549053.netlify.app
 
  ## Copyright and License
  
- 
+  Licensed by <a href="https://github.com/esipil/phase-2-personal-project/commit/c9aea994077cb474989074aea17c630cf61a03c2" />MIT
