@@ -8,6 +8,8 @@ Developed by : Timothy Lenku
 
 This is a test website for a Restaurant. The website's goal is showing information on a restaurant to customers. The website shows the customers the restaurant's menu, see some aspects of a restaurant and also make their reservations. The customers can also send feedback commenting on their visit to the restaurant in the sectipn. 
 
+The project obtains its data from :
+###  https://restaurantone.herokuapp.com
 ## How To Set Up The Project
 
 Clone this repository by clicking the code button on the upper part of this repository. Copy the SSH key.
